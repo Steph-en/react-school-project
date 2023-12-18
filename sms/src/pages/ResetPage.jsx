@@ -88,7 +88,7 @@ export default function ResetPage({ doSmth }) {
                 <InputLabel htmlFor="outlined-adornment-password">Enter your registered email address</InputLabel>
                 <OutlinedInput
                   id="outlined-adornment-password"
-                  type={showPassword ? 'text' : 'text'}
+                  type={showPassword ? 'text' : 'password'}
                   endAdornment={
                     <InputAdornment position="end">
                       <IconButton
