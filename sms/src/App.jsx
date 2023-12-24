@@ -2,7 +2,7 @@ import "./App.css";
 import { ThemeProvider, createTheme } from "@mui/material";
 import { useState } from "react";
 import Login from "./pages/LoginPage";
-import ResetPage from "./pages/ResetPage";
+// import ResetPage from "./pages/ResetPage";
 // import AboutPage from "../src/pages/AboutPage";
 
 const theme = createTheme({
