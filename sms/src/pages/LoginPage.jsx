@@ -72,8 +72,8 @@ export default function SignIn({ doSmth }) {
             </Typography>
             <Grid>
               <Typography variant='h2' sx={{
-                p: "1em 0 1em 0", 
-                color: "GrayText", 
+                p: "1em 0 1em 0",
+                color: "GrayText",
                 position: 'relative',
                 top: '0',
                 left: '-6.5em',
@@ -187,7 +187,7 @@ export default function SignIn({ doSmth }) {
                 >
                   <TwitterIcon />
                 </Button>
-                <Button   
+                <Button
                   type="button"
                   variant="contained"
                   color='other'
