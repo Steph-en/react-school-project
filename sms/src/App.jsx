@@ -16,6 +16,18 @@ const theme = createTheme({
     other: {
       main: "#F3F3F3",
     },
+    gl: {
+      main: "rgb(224, 67, 53)",
+    },
+    fb: {
+      main: "rgb(56, 114, 229)",
+    },
+    twiter: {
+      main: "rgb(75, 154, 229)",
+    },
+    linkedin: {
+      main: "rgb(49, 114, 171)",
+    },
   },
   typography: {
     h1: {
